@@ -1,2 +1,3 @@
 # ranjeet
-This is my First Git Repository
+This is my First Git Repository.
+Author - Ranjeet kumar
